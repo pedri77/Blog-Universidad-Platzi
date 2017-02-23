@@ -4,8 +4,6 @@ Desarrollo del segundo reto del curso de git y github usando los Issues Manageme
 
 Se prentende gestionar el proyecto en cuatro Milestones, cada uno con los Issues necesarios para poder cumplir con el objetivo correspondiente.
 
-Se pretende trabajar en colobaración con una cuenta ficticia para simular el uso de pull requests.
-
 Se pretende poner en práctica los conocimientos adquiridos en el curso de Desarrollo web online y Responsive Design.
 
 Uso de gh-pages para la publicación del mismo.
